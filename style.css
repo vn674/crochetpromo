@@ -1,0 +1,40 @@
+*{
+	box-sizing: border-box;
+}
+
+body {
+	background-color: rgb(255, 254, 242);
+}
+
+.header {
+  border: 20px dashed rgb(252, 194, 149);
+  background-color: rgb(250, 236, 172);    
+  margin: 30px auto;
+  width: 70%;
+}
+
+.header_text {
+  font-family: Helvetica, sans-serif;
+  color:rgb(250, 121, 20);
+  text-align: center;
+}
+
+.reason {
+  border: 10px dashed rgb(175, 214, 105);
+  background-color: rgb(234, 252, 202);    
+  margin: 30px auto;
+  width: 60%
+}
+
+.reason_text {
+  font-family: Helvetica, sans-serif;
+  color:rgb(250, 121, 20);
+  text-align: center;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
